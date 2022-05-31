@@ -1,0 +1,1 @@
+# svelte-capacitor-ionic-tailwind
