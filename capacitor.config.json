@@ -1,0 +1,6 @@
+{
+  "appId": "misatv.ro",
+  "appName": "testApp",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
